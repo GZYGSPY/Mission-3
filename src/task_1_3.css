@@ -29,7 +29,6 @@ body {
 
 .team-info {
     float: left;
-    font-size: 15px;
     width: 160px;
     padding: 19px;
     border: 1px solid #999;
@@ -43,6 +42,7 @@ body {
 
 .team-info span {
     width: 4em;
+    font-size: 14px;
     text-align: center;
     position: absolute;
     left: 160px;
@@ -73,6 +73,7 @@ body {
 
 .team-intro {
     padding: 19px;
+    font-size: 10px;
     margin: 0px 140px auto 220px;
     border: 1px solid #999;
     background-color: #FFF;
