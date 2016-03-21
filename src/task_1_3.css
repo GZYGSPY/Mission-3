@@ -14,7 +14,7 @@ body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, li, pre, form, 
 }
 
 body {
-    min-width: 495px;
+    min-width: 490px;
     border: 1px solid #999;
 }
 
